@@ -38,3 +38,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 _Check:_ https://dev.to/hackmamba/how-to-add-github-authentication-to-a-nextjs-application-1nfi#:~:text=Sign%20in%20to%20GitHub%2C%20navigate,the%20green%20Register%20Application%20button.
+
+_Check:_ https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps#web-application-flow
